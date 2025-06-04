@@ -2,7 +2,7 @@
 
 
 - 👩‍💻 Estou migrando de para o mundo do desenvolvimento!
-- 👨‍🎓 Estou estudando Análise e Desenvolvimento de Sistemas na Univercidade Mogi das Cruzes
+- 👨‍🎓 Estou estudando Análise e Desenvolvimento de Sistemas e Sistemas de informação
 - 😍 Completamente apaixonado por tecnologia e inovação
 
 <div align="center">
